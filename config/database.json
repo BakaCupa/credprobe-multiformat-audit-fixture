@@ -1,0 +1,8 @@
+{
+  "service": "PostgreSQL",
+  "host": "127.0.0.1",
+  "port": 55440,
+  "database": "fixture_database",
+  "username": "fixture_reader",
+  "password": "synthetic-postgres-only"
+}
